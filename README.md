@@ -1,4 +1,4 @@
-# Jarkom-1-2024-IT34
+# Jarkom-1-IT34-2024
 Dikerjakan Oleh:
 |Nama|NRP |
 |--|--|
