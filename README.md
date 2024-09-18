@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cbdbeee9-3f70-4660-9d74-60188990e87f)# Jarkom-1-2024-IT34
+# Jarkom-1-2024-IT34
 Dikerjakan Oleh:
 |Nama|NRP |
 |--|--|
