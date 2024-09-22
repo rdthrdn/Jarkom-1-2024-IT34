@@ -231,7 +231,23 @@ if __name__ == "__main__":
 ```
 ![image](https://github.com/user-attachments/assets/a6920063-1716-4c61-9e53-73947c410607)
 
+---
+## REVISI
+---
 
+### GAJAH TERBANG (ATTACKER RECON) :
+![image](https://github.com/user-attachments/assets/d3923366-fd32-4a38-bf0d-dc2d54340ba5)
+![image](https://github.com/user-attachments/assets/6594da07-08ef-4c53-81fb-fcbb692d0cfc)
+
+### BABY HENGKER :
+![image](https://github.com/user-attachments/assets/7552e5ce-3b0d-4bb0-93ea-4ba10e00e504)
+![image](https://github.com/user-attachments/assets/19ac7e0f-c297-456c-bae1-df3f77c788d4)
+
+### ADULT HENGKER :
+![image](https://github.com/user-attachments/assets/872c118b-bace-4f59-acb9-2a157c5314d8)
+![image](https://github.com/user-attachments/assets/2ed319cc-6b9e-4751-9221-32db3520c619)
+![image](https://github.com/user-attachments/assets/174691c8-d266-4f6d-82ae-f5599eeb6b89)
+![image](https://github.com/user-attachments/assets/060b2239-636c-484a-b2c1-9caeb45acfa2)
 
 
 
