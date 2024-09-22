@@ -249,10 +249,6 @@ if __name__ == "__main__":
 ![image](https://github.com/user-attachments/assets/174691c8-d266-4f6d-82ae-f5599eeb6b89)
 ![image](https://github.com/user-attachments/assets/060b2239-636c-484a-b2c1-9caeb45acfa2)
 
-
-
-
-
-
-
-
+### SIMBA : 
+![image](https://github.com/user-attachments/assets/978ca1db-8f9c-4e47-9bb8-c86830f57ef9)
+![image](https://github.com/user-attachments/assets/d514a835-11cf-4fbb-aeea-607fef2997b4)
