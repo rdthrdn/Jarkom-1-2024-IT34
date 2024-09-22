@@ -104,8 +104,6 @@ Untuk pertanyaan ketiga, periksa bagian MIME dan ikuti arahannya. Lalu decrypt m
 
 ### SURPRISE (Afnaan) :
 
-![image](https://github.com/user-attachments/assets/3851e8d9-c7d1-4aa3-a7dd-436ccab275f8)
-
 Berikut pertanyaannya:
 ![image](https://github.com/user-attachments/assets/f10f4293-7b83-482e-920c-9d3fe2091750)
 
@@ -252,3 +250,5 @@ if __name__ == "__main__":
 ### SIMBA : 
 ![image](https://github.com/user-attachments/assets/978ca1db-8f9c-4e47-9bb8-c86830f57ef9)
 ![image](https://github.com/user-attachments/assets/d514a835-11cf-4fbb-aeea-607fef2997b4)
+![image](https://github.com/user-attachments/assets/93086095-a4f0-4b49-ac58-2f5dfa7cf2c2)
+
