@@ -1,4 +1,4 @@
-# Jarkom-1-IT34-2024
+![image](https://github.com/user-attachments/assets/b6dbda72-d77c-490d-a1b5-3c37ce5dc050)![image](https://github.com/user-attachments/assets/32c2f1a5-6cd6-472b-ba7b-93bf8862897b)# Jarkom-1-IT34-2024
 Dikerjakan Oleh:
 |Nama|NRP |
 |--|--|
@@ -251,4 +251,19 @@ if __name__ == "__main__":
 ![image](https://github.com/user-attachments/assets/978ca1db-8f9c-4e47-9bb8-c86830f57ef9)
 ![image](https://github.com/user-attachments/assets/d514a835-11cf-4fbb-aeea-607fef2997b4)
 ![image](https://github.com/user-attachments/assets/93086095-a4f0-4b49-ac58-2f5dfa7cf2c2)
+
+### GAJAH TERBANG (SERVER RECON) :
+![image](https://github.com/user-attachments/assets/18e37cca-d5d5-4ade-b85c-373358255a8c)
+![image](https://github.com/user-attachments/assets/c85bfde0-d1eb-4884-a1be-0c64224e15ab)
+
+### INNERRCE :
+![image](https://github.com/user-attachments/assets/b56374f1-b9da-4ed4-b43c-d2aa79b0e700)
+![image](https://github.com/user-attachments/assets/fc7e8d52-7f9d-4c2b-9335-43d71d8b6d19)
+![image](https://github.com/user-attachments/assets/14b65baf-fd5d-4b05-a346-a23f88bbede0)
+
+### 22 NIGHTMARE :
+![image](https://github.com/user-attachments/assets/c5b10709-333a-4b13-a308-68e7835ea789)
+![image](https://github.com/user-attachments/assets/7f7ad207-67bb-4311-ad7a-393e41f7e213)
+![image](https://github.com/user-attachments/assets/8f14e449-91a5-4e4c-9bed-bdae346c4d35)
+![image](https://github.com/user-attachments/assets/d7c98b02-9d19-40b8-aaa6-f41a18285228)
 
